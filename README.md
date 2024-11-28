@@ -6,9 +6,7 @@
 🔑 Key Skills & Expertise:
 Programming Languages: Python, Java, C++, C
 Frameworks: TensorFlow, PyTorch, and Flutter
-
-Specializations:
-End-to-end AI model development and deployment
+Specializations: End-to-end AI model development and deployment
 Cross-platform mobile app development
 Integration of machine learning models into real-world applications
 
@@ -18,11 +16,6 @@ Optimizing AI workflows for mobile and edge devices
 
 🚀 My Vision:
 To innovate at the intersection of AI and mobile development, creating solutions that impact lives and push the boundaries of technology.
-
-📂 Portfolio & Contributions:
-
-Check out my repositories for open-source projects in Flutter, machine learning algorithms, and AI-powered applications.
-📫 Connect with me:
 
 Email: 1902035.noman.zuhaer.antor@gmail.com
 LinkedIn: www.linkedin.com/in/noman-zuhaer-antor
