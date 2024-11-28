@@ -1,7 +1,7 @@
 👋 Hi, I’m @Antor337.
 I'm a dedicated software developer with:
 - 1.5+ years of experience in Flutter, building responsive, high-performance cross-platform applications.
-- strong focus on Artificial Intelligence, Machine Learning, and Deep Learning, actively applying these technologies to solve real-world problems.
+- Strong focus on Artificial Intelligence, Machine Learning, and Deep Learning, actively applying these technologies to solve real-world problems.
 
 🔑 Key Skills & Expertise:
 - Programming Languages: Python, Java, C++, C
